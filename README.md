@@ -26,7 +26,7 @@
         <li><b>Learning now: </b> HTML, CSS, JavaScript</li>
         <li><b>Education: </b>Technical Course in Nursing, Data Science (Ongoing)</li>
       <p></p>
-        <p align="center">When I was 15, I did a technical course in nursing alongside high school, so I have a bit of experience in the health area and some biological stuff as well. I'm currently studying Data Science at USP (University of São Paulo) and working on a lot of projects that I might post here in a near future</p>
+        <p align="center">When I was 15, I did a technical course in nursing alongside high school, so I have a bit of experience in the health area and some biological stuff as well. I'm currently studying Data Science at USP (University of São Paulo) and working on a lot of projects</p>
     </div>
 </br>
     <br>
